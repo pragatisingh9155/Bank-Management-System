@@ -40,7 +40,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```
 2. Clone the repository:
     ```bash
-    git clone https://github.com/mohitprajapat2001/Python-Bank-Project
+    git clone https://github.com/pragatisingh9155/Bank-Management-System/tree/master
     ```
 3. Navigate to the project directory:
     ```bash
@@ -93,9 +93,5 @@ Ensure you have Python installed on your system. You can download it from [pytho
 ## Contributing
 
 We welcome contributions to enhance the features and improve the system. Feel free to fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Thank you for using the Bank Management System! We hope it helps you manage your bank accounts effectively.
